@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: lightcoral;
+    color: #590d0d;
+    text-align: center;
+    background-image:url(https://i.pinimg.com/736x/4a/3e/1f/4a3e1f34d09a12b808166e38054b56d0.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+
+}
+h1{
+    font-size:45px;
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size:45px;
+    border-radius:10px;
+    margin:10px;
+    background-color:rgb(245, 144, 161);
+    color: #590d0d;
+    border-style:none;
+}
+.btn:hover{
+    background-color:#872626;
+    cursor: pointer;
+}
